@@ -1,2 +1,2 @@
 # du-py
-Python Rducation
+Python Education
